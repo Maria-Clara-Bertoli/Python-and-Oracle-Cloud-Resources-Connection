@@ -1,2 +1,11 @@
-# Oracle-Cloud-e-Python
-Repositório que inclui os arquivos e pastas de conexão da linguagem python com recursos da Oracle Cloud
+# ☁️🐍 Integração Python com Oracle Cloud
+
+Este repositório contém os **arquivos** e **pastas** necessários para realizar a **conexão** da linguagem **Python** com recursos da **Oracle Cloud**.
+
+## ⚙️ Funcionalidades
+- 📂 Organização de arquivos e pastas para integração
+- 🔐 Gerenciamento de credenciais e autenticação segura
+
+## 🛠️ Tecnologias Utilizadas
+- Python 🐍
+- Oracle Cloud ☁️
