@@ -1,4 +1,4 @@
-# ☁️🐍 Integração da Linguagem Python com Recursos da Oracle Cloud
+# ☁️🐍 Integração da Linguagem Python Com Recursos da Oracle Cloud
 
 Este repositório contém os **arquivos** e **pastas** necessários para realizar a **conexão** da linguagem **Python** com recursos da **Oracle Cloud**.
 
